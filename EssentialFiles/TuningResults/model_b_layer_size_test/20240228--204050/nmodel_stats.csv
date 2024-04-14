@@ -1,0 +1,18 @@
+stat,value
+sig_in_test,20000
+bkg_in_test,400000
+accuracy,0.9767857142857143
+precision,0.9877236391320898
+efficiency,0.519
+auc,0.99510283275
+f1score,0.6804546705125585
+test loss,0.09241435907489079
+threshold,0.9991441
+regression_R^2,0.947168325057883
+classification loss weight,0.5
+regression loss weight,0.5
+regression activation type,relu
+Ht trigger rate quantities,values
+plot sample width,0.005
+Ht limit with low triggering rate,0.035
+Ht limit with high triggering rate,0.165

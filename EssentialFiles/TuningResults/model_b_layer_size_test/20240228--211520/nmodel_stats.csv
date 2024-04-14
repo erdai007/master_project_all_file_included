@@ -1,0 +1,14 @@
+stat,value
+sig_in_test,20000
+bkg_in_test,400000
+accuracy,0.9718785714285715
+precision,0.9847283059074228
+efficiency,0.41595
+auc,0.9945513794999998
+f1score,0.5848562615908248
+test loss,0.0876589981141252
+threshold,0.9995034
+regression_R^2,0.9498219182049619
+classification loss weight,0.5
+regression loss weight,0.5
+regression activation type,relu
