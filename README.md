@@ -13,6 +13,11 @@ This is the 7z file containing all the files created during the projects, includ
 
 This is the file for uploading project_folder.7z
 
+-README.md
+--------
+
+You are now reading me.
+
 EssentialFiles(Folder)
 ---------
 
