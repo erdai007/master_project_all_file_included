@@ -1,7 +1,7 @@
 Master Project Related Files
 =================
 
-The repository contain the following files
+The repository contains the following files
 
 project_folder.7z
 --------
@@ -18,10 +18,15 @@ This is the file for uploading project_folder.7z
 
 You are now reading me.
 
+-ModelFiles.md
+--------
+
+This file contains descriptions of what you are expected to see in a model folder.
+
 EssentialFiles(Folder)
 ---------
 
-This folder have the following subfolders:
+This folder has the following subfolders:
 
 ./BestModels
 ----
@@ -33,7 +38,7 @@ This is the folder containing all the models used in the report, including model
 
 ./preprocess_v2
 ----
-This is the folder containing some of the attempts on data preprocessing, mainly corresponds to the work done in week 17(Feb.19.2024-Feb.25.2024) of the academic year.
+This is the folder containing some of the attempts at data preprocessing, mainly corresponding to the work done in week 17(Feb.19.2024-Feb.25.2024) of the academic year.
 
 ./scripts
 ----
